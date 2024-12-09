@@ -96,6 +96,9 @@ td:last-child {
   color: var(--Brown800);
   font-family: "Young serif", sans-serif;
 }
+.attribution a {
+  text-decoration: none;
+}
 
 @media (max-width: 500px) {
   .container {
